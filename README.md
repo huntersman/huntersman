@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Hunter, living in China. I think technique can make our lifes better :+1:.
+
 <!--
 **huntersman/huntersman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
